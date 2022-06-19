@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    width: 276px;
+    height: 430px;
+    border-radius: 30px;
+    overflow: hidden;
+    background-color: #393939;
+    margin: 50px auto;
+    box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.OperBtn {
+    background-color: #8280E3 !important;
+}
+
+.calc-result {
+    background-color: #515151;
+    height: 77px;
+    padding: 20px;
+    color: white;
+    text-align: right;
+}
+
+.zero {
+    width: 124px !important;
+}
